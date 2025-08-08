@@ -33,6 +33,7 @@ This project analyzes the Stack Overflow Developer Survey dataset to identify wh
 - Feature importance analysis revealed which skills, technologies, and experience attributes most influence salary, helping answer the core business question:  
   **“What combination of skills, technologies, and experience levels are most strongly associated with high-salary developer roles in the US?”**  
 - Visualizations highlight the top factors within each category, offering actionable insights for developers aiming to maximize their salary potential.  
+- A blog post summarizing the results can be found here: https://medium.com/@rfhoerlein/what-drives-developer-salaries-bdd6288629f6
 
 ---
 
